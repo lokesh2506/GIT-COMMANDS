@@ -55,7 +55,7 @@ VS CODE TERMINAL
 
     5) We can view and change tha branch
 
-    git branch         -->view
+    git branch         -->give the current branch
 
     git branch -m Lokesh     -->change the name of the branch
 
