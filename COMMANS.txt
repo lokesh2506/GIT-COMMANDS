@@ -57,7 +57,7 @@ VS CODE TERMINAL
 
     git branch         -->view
 
-    git branch -m Lokesh     -->change
+    git branch -m Lokesh     -->change the name of the branch
 
     6)we need to push in the GithUb repo
 
@@ -80,3 +80,9 @@ VS CODE TERMINAL
                 so we use this Commands
 
     3)git checkout newBranch  -->this is used to change one branch to another branch
+
+    git  diff newBranch   -->it check the difference between current branch and given branch
+
+    git  merge newBranch   --> it merge the both branch that means both having same files
+
+    git push origin main    -->then only it diplay in GitHub
