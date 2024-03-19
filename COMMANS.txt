@@ -30,7 +30,7 @@ VS CODE TERMINAL
 
 	5) After Commited it will be reflect in Desktop/Local Folder but we need to push in GITHUB repo
 	
-	git push orgin main        (main is a branch)
+	git push origin main        (main is a branch)
 
     -----------------------------------------------------------------------------------------
 
@@ -61,8 +61,22 @@ VS CODE TERMINAL
 
     6)we need to push in the GithUb repo
 
-    gti push orgin Lokesh
+    git push orgin Lokesh
 
 
     SHORTCUT --> git add .   -->it select all untracked File
              --> cd ..    -> it will go back from current folder
+
+    ----------------------------BRANCH------------------------------
+
+    1)Getting the list of Branches 
+
+    git branch -a
+
+    2)After creating a branch in Github
+
+    git pull -->this is used to update the changes from the online github
+                if any changes in GitHub Local Folder will not able to know 
+                so we use this Commands
+
+    3)git checkout newBranch  -->this is used to change one branch to another branch
