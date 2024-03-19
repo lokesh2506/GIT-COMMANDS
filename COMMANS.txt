@@ -1,2 +1,33 @@
 Hi im Lokesh,
 Today we gone to learn the Git Commands
+
+
+----------------------------GIT COMMANDS---------------------------
+
+COMMAND PROMPT
+	
+	git config --global user.name "lokesh2506"
+	
+	git config --global user.email "lokeshkumars2506@gmail.com"
+
+VS CODE TERMINAL	
+ 
+	1) we need to create a folder in desktop
+
+	2)we clone the git repo to the Desktop Folder
+
+	git clone "reposite url"
+	
+	3)Add a new file in the local-repo
+
+	GITHUB  -> Desktop Folder -> local Repo ->new File
+
+	git add text2.txt
+
+	4)ones it get added means --> it added in local repo 
+	
+	git commit -m "text2.tx is added"
+
+	5) After Commited it will be reflect in Desktop/Local Folder but we need to push in GITHUB repo
+	
+	git push orgin main        (main is a branch)
